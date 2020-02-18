@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b4030ebb.chunk.css",
+    "main.js": "./static/js/main.fc918e0b.chunk.js",
+    "main.js.map": "./static/js/main.fc918e0b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.da0f1fd1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.da0f1fd1.js.map",
+    "static/js/2.68f00128.chunk.js": "./static/js/2.68f00128.chunk.js",
+    "static/js/2.68f00128.chunk.js.map": "./static/js/2.68f00128.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a7424a0d3ee2d3c360a9fb42c552ce6b.js": "./precache-manifest.a7424a0d3ee2d3c360a9fb42c552ce6b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.b4030ebb.chunk.css.map": "./static/css/main.b4030ebb.chunk.css.map",
+    "static/js/2.68f00128.chunk.js.LICENSE.txt": "./static/js/2.68f00128.chunk.js.LICENSE.txt",
+    "static/media/Intro.scss": "./static/media/code-1920.3ee50395.jpg",
+    "static/media/css3.png": "./static/media/css3.fe1a6f98.png",
+    "static/media/Portpolio.scss": "./static/media/keywordplay-main.e4e2fcf9.jpg",
+    "static/media/jquery.png": "./static/media/jquery.3c96d355.png",
+    "static/media/keywordplay.jpg": "./static/media/keywordplay.c78ffe8e.jpg",
+    "static/media/mysql.png": "./static/media/mysql.33eaed5a.png",
+    "static/media/nodejs.png": "./static/media/nodejs.65086ddb.png",
+    "static/media/php.png": "./static/media/php.6f47da91.png",
+    "static/media/vue.png": "./static/media/vue.535dcd60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da0f1fd1.js",
+    "static/js/2.68f00128.chunk.js",
+    "static/css/main.b4030ebb.chunk.css",
+    "static/js/main.fc918e0b.chunk.js"
+  ]
+}
